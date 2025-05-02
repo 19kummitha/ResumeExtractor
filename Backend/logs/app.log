@@ -1,0 +1,592 @@
+2025-05-02 11:31:29,291 - resume - INFO - Server started successfully
+2025-05-02 11:32:44,810 - resume - INFO - Register attempt for user: koti
+2025-05-02 11:33:23,594 - resume - INFO - Server shutting down
+2025-05-02 11:33:49,556 - resume - INFO - Server started successfully
+2025-05-02 11:33:52,795 - resume - INFO - Register attempt for user: koti
+2025-05-02 11:33:52,804 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\285072\Desktop\Python\contentExtractor\Backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-02 11:34:34,151 - resume - INFO - Server shutting down
+2025-05-02 11:34:39,169 - resume - INFO - Server started successfully
+2025-05-02 11:34:49,471 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\285072\Desktop\Python\contentExtractor\Backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-02 11:36:29,107 - resume - INFO - Server shutting down
+2025-05-02 11:36:31,321 - resume - INFO - Server started successfully
+2025-05-02 11:36:36,050 - resume - INFO - Server shutting down
+2025-05-02 11:47:15,978 - resume - INFO - Server started successfully
+2025-05-02 11:47:21,364 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\285072\Desktop\Python\contentExtractor\Backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-02 11:50:19,223 - resume - INFO - Server shutting down
+2025-05-02 11:51:47,810 - resume - INFO - Server started successfully
+2025-05-02 11:51:55,315 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\285072\Desktop\Python\contentExtractor\Backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-02 11:54:08,984 - resume - INFO - Server shutting down
+2025-05-02 11:54:11,055 - resume - INFO - Server started successfully
+2025-05-02 11:54:18,313 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 11:55:27,535 - resume - INFO - Server shutting down
+2025-05-02 11:55:30,017 - resume - INFO - Server started successfully
+2025-05-02 11:55:31,473 - resume - INFO - Server shutting down
+2025-05-02 11:55:33,793 - resume - INFO - Server started successfully
+2025-05-02 11:55:33,796 - resume - INFO - Server shutting down
+2025-05-02 11:55:36,162 - resume - INFO - Server started successfully
+2025-05-02 11:55:48,705 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 13:25:09,449 - resume - INFO - Server shutting down
+2025-05-02 13:25:16,147 - resume - INFO - Server started successfully
+2025-05-02 13:25:30,478 - resume - INFO - Server shutting down
+2025-05-02 13:25:33,070 - resume - INFO - Server started successfully
+2025-05-02 13:25:33,071 - resume - INFO - Server shutting down
+2025-05-02 13:25:35,347 - resume - INFO - Server started successfully
+2025-05-02 13:27:50,575 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\285072\Desktop\Python\contentExtractor\Backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-02 13:28:14,372 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 13:28:33,692 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 13:28:52,625 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 13:31:26,696 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 13:34:26,551 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 13:39:33,127 - resume - INFO - Server shutting down
+2025-05-02 13:39:35,964 - resume - INFO - Server started successfully
+2025-05-02 13:39:37,383 - resume - INFO - Server shutting down
+2025-05-02 13:39:39,609 - resume - INFO - Server started successfully
+2025-05-02 13:39:39,818 - resume - INFO - Server shutting down
+2025-05-02 13:39:42,639 - resume - INFO - Server started successfully
+2025-05-02 13:39:48,942 - resume - INFO - Server shutting down
+2025-05-02 13:39:51,546 - resume - INFO - Server started successfully
+2025-05-02 13:40:12,375 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 13:40:26,513 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 13:41:02,984 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 13:41:12,211 - resume - INFO - Server shutting down
+2025-05-02 13:41:14,784 - resume - INFO - Server started successfully
+2025-05-02 13:41:35,451 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 13:42:01,738 - resume - INFO - Server shutting down
+2025-05-02 13:42:03,981 - resume - INFO - Server started successfully
+2025-05-02 13:42:04,309 - resume - INFO - Server shutting down
+2025-05-02 13:42:06,743 - resume - INFO - Server started successfully
+2025-05-02 13:42:15,429 - resume - INFO - Server shutting down
+2025-05-02 13:42:17,669 - resume - INFO - Server started successfully
+2025-05-02 13:42:32,145 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\285072\Desktop\Python\contentExtractor\Backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-02 13:42:50,406 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 13:44:51,441 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 13:45:13,648 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 13:48:04,356 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 13:48:45,446 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 13:51:31,068 - resume - INFO - Server shutting down
+2025-05-02 13:52:18,515 - resume - INFO - Server started successfully
+2025-05-02 13:52:50,945 - resume - INFO - Server shutting down
+2025-05-02 13:53:42,228 - resume - INFO - Server started successfully
+2025-05-02 13:53:50,799 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\285072\Desktop\Python\contentExtractor\Backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-02 13:54:12,656 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 13:54:12,657 - root - INFO - Response from OpenAI API: {'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': None, 'message': {'content': '```json\n{\n  "name": "Kummitha Venkata Kotireddy",\n  "email": "venkatakoti18@gmail.com",\n  "phone": "+91 8499857148",\n  "skills": [\n    "C#",\n    "Python",\n    "Java",\n    "HTML/CSS",\n    "C",\n    "SQL",\n    "ReactJS",\n    "ASP .NET Core",\n    "Angular"\n  ],\n  "experience": [\n    {\n      "company": "UST Global",\n      "position": "Software Development Engineer-I",\n      "location": "Kochi, India",\n      "duration": "Jul 2024 – Present",\n      "responsibilities": [\n        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",\n        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."\n      ]\n    }\n  ],\n  "projects": [\n    {\n      "name": "Reactivities",\n      "date": "March 2025",\n      "technologies": [\n        "React(vite)",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "MobX",\n        "Typescript",\n        "CQRS",\n        "MediatR",\n        "SignalR",\n        "Sqlite"\n      ],\n      "description": "Reactivities is a full-stack web application designed for event management and social interactions. It allows users to create, update, and join events while integrating real-time features like notifications and chat."\n    },\n    {\n      "name": "Re-Store",\n      "date": "February 2025",\n      "technologies": [\n        "React(vite)",\n        "Typescript",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "Redux",\n        "sqlite"\n      ],\n      "description": "Re-Store is a full-stack web application designed for E-Commerce application. It allows users to add products to cart and place an order."\n    },\n    {\n      "name": "My Portfolio",\n      "date": "February 2025",\n      "technologies": [\n        "React",\n        "JavaScript",\n        "HTML",\n        "CSS"\n      ],\n      "description": "Designed and developed a personal portfolio website to showcase my skills, projects, and experience."\n    },\n    {\n      "name": "Community Communication Website",\n      "date": "September 2024",\n      "technologies": [\n        "C#",\n        "Angular",\n        ".NET 8"\n      ],\n      "description": "Implemented Weather Forecast API to display real-time weather data. Developed features like complaint management, event scheduling, and service requests."\n    },\n    {\n      "name": "Loan Approval Prediction Using Machine Learning",\n      "date": "October 2023",\n      "technologies": [\n        "Python",\n        "Machine Learning"\n      ],\n      "description": "The Loan approval prediction can be done by using various machine algorithms like Gaussian Naive Bayes, Random Forest, Decision Tree, KNN, Logistic Regression in which Gaussian Naive Bayes got superior Accuracy."\n    }\n  ],\n  "Certifications": [\n    "SQL - HackerRank, Sep 2023",\n    "Python - HackerRank",\n    "Linguaskill - Cambridge Linguaskill, Dec 2022",\n    "Agile, Scrum, and Kanban - Udemy",\n    "Power BI - Udemy",\n    "AzureDevops - Udemy",\n    "dotnet with azure - Udemy",\n    "snowflake - Udemy"\n  ],\n  "Achievements": [\n    "Student Topper Award - Nov 2022",\n    "Subject Topper Award in Data Structures - Nov 2023",\n    "5* in Problem Solving and Python on HackerRank",\n', 'refusal': None, 'role': 'assistant'}}], 'created': 1746174244, 'id': 'chatcmpl-BSfyeCzJiByvkAbYtXjvzDDYN7aL2', 'model': 'gpt-4o-2024-08-06', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': 'fp_ee1d74bde0', 'usage': {'completion_tokens': 800, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 898, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1698}}
+2025-05-02 13:54:12,663 - root - ERROR - Invalid JSON returned by model:
+{
+  "name": "Kummitha Venkata Kotireddy",
+  "email": "venkatakoti18@gmail.com",
+  "phone": "+91 8499857148",
+  "skills": [
+    "C#",
+    "Python",
+    "Java",
+    "HTML/CSS",
+    "C",
+    "SQL",
+    "ReactJS",
+    "ASP .NET Core",
+    "Angular"
+  ],
+  "experience": [
+    {
+      "company": "UST Global",
+      "position": "Software Development Engineer-I",
+      "location": "Kochi, India",
+      "duration": "Jul 2024 – Present",
+      "responsibilities": [
+        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",
+        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Reactivities",
+      "date": "March 2025",
+      "technologies": [
+        "React(vite)",
+        "HTML",
+        "CSS",
+        ".NET 8",
+        "MobX",
+        "Typescript",
+        "CQRS",
+        "MediatR",
+        "SignalR",
+        "Sqlite"
+      ],
+      "description": "Reactivities is a full-stack web application designed for event management and social interactions. It allows users to create, update, and join events while integrating real-time features like notifications and chat."
+    },
+    {
+      "name": "Re-Store",
+      "date": "February 2025",
+      "technologies": [
+        "React(vite)",
+        "Typescript",
+        "HTML",
+        "CSS",
+        ".NET 8",
+        "Redux",
+        "sqlite"
+      ],
+      "description": "Re-Store is a full-stack web application designed for E-Commerce application. It allows users to add products to cart and place an order."
+    },
+    {
+      "name": "My Portfolio",
+      "date": "February 2025",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "description": "Designed and developed a personal portfolio website to showcase my skills, projects, and experience."
+    },
+    {
+      "name": "Community Communication Website",
+      "date": "September 2024",
+      "technologies": [
+        "C#",
+        "Angular",
+        ".NET 8"
+      ],
+      "description": "Implemented Weather Forecast API to display real-time weather data. Developed features like complaint management, event scheduling, and service requests."
+    },
+    {
+      "name": "Loan Approval Prediction Using Machine Learning",
+      "date": "October 2023",
+      "technologies": [
+        "Python",
+        "Machine Learning"
+      ],
+      "description": "The Loan approval prediction can be done by using various machine algorithms like Gaussian Naive Bayes, Random Forest, Decision Tree, KNN, Logistic Regression in which Gaussian Naive Bayes got superior Accuracy."
+    }
+  ],
+  "Certifications": [
+    "SQL - HackerRank, Sep 2023",
+    "Python - HackerRank",
+    "Linguaskill - Cambridge Linguaskill, Dec 2022",
+    "Agile, Scrum, and Kanban - Udemy",
+    "Power BI - Udemy",
+    "AzureDevops - Udemy",
+    "dotnet with azure - Udemy",
+    "snowflake - Udemy"
+  ],
+  "Achievements": [
+    "Student Topper Award - Nov 2022",
+    "Subject Topper Award in Data Structures - Nov 2023",
+    "5* in Problem Solving and Python on HackerRank",
+2025-05-02 13:54:12,676 - root - ERROR - Error while parsing resume: Invalid JSON returned by model:
+{
+  "name": "Kummitha Venkata Kotireddy",
+  "email": "venkatakoti18@gmail.com",
+  "phone": "+91 8499857148",
+  "skills": [
+    "C#",
+    "Python",
+    "Java",
+    "HTML/CSS",
+    "C",
+    "SQL",
+    "ReactJS",
+    "ASP .NET Core",
+    "Angular"
+  ],
+  "experience": [
+    {
+      "company": "UST Global",
+      "position": "Software Development Engineer-I",
+      "location": "Kochi, India",
+      "duration": "Jul 2024 – Present",
+      "responsibilities": [
+        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",
+        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Reactivities",
+      "date": "March 2025",
+      "technologies": [
+        "React(vite)",
+        "HTML",
+        "CSS",
+        ".NET 8",
+        "MobX",
+        "Typescript",
+        "CQRS",
+        "MediatR",
+        "SignalR",
+        "Sqlite"
+      ],
+      "description": "Reactivities is a full-stack web application designed for event management and social interactions. It allows users to create, update, and join events while integrating real-time features like notifications and chat."
+    },
+    {
+      "name": "Re-Store",
+      "date": "February 2025",
+      "technologies": [
+        "React(vite)",
+        "Typescript",
+        "HTML",
+        "CSS",
+        ".NET 8",
+        "Redux",
+        "sqlite"
+      ],
+      "description": "Re-Store is a full-stack web application designed for E-Commerce application. It allows users to add products to cart and place an order."
+    },
+    {
+      "name": "My Portfolio",
+      "date": "February 2025",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "description": "Designed and developed a personal portfolio website to showcase my skills, projects, and experience."
+    },
+    {
+      "name": "Community Communication Website",
+      "date": "September 2024",
+      "technologies": [
+        "C#",
+        "Angular",
+        ".NET 8"
+      ],
+      "description": "Implemented Weather Forecast API to display real-time weather data. Developed features like complaint management, event scheduling, and service requests."
+    },
+    {
+      "name": "Loan Approval Prediction Using Machine Learning",
+      "date": "October 2023",
+      "technologies": [
+        "Python",
+        "Machine Learning"
+      ],
+      "description": "The Loan approval prediction can be done by using various machine algorithms like Gaussian Naive Bayes, Random Forest, Decision Tree, KNN, Logistic Regression in which Gaussian Naive Bayes got superior Accuracy."
+    }
+  ],
+  "Certifications": [
+    "SQL - HackerRank, Sep 2023",
+    "Python - HackerRank",
+    "Linguaskill - Cambridge Linguaskill, Dec 2022",
+    "Agile, Scrum, and Kanban - Udemy",
+    "Power BI - Udemy",
+    "AzureDevops - Udemy",
+    "dotnet with azure - Udemy",
+    "snowflake - Udemy"
+  ],
+  "Achievements": [
+    "Student Topper Award - Nov 2022",
+    "Subject Topper Award in Data Structures - Nov 2023",
+    "5* in Problem Solving and Python on HackerRank",
+2025-05-02 13:55:34,825 - resume - INFO - Server shutting down
+2025-05-02 13:55:37,367 - resume - INFO - Server started successfully
+2025-05-02 13:55:48,723 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 13:55:48,725 - root - INFO - Response from OpenAI API: {'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'stop', 'index': 0, 'logprobs': None, 'message': {'content': '```json\n{\n  "name": "Kummitha Venkata Kotireddy",\n  "email": "venkatakoti18@gmail.com",\n  "phone": "+91 8499857148",\n  "skills": [\n    "C#",\n    "Python",\n    "Java",\n    "HTML/CSS",\n    "C",\n    "SQL",\n    "ReactJS",\n    "ASP .NET Core",\n    "Angular"\n  ],\n  "experience": [\n    {\n      "company": "UST Global",\n      "position": "Software Development Engineer-I",\n      "location": "Kochi, India",\n      "duration": "Jul 2024 – Present",\n      "responsibilities": [\n        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",\n        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."\n      ]\n    }\n  ],\n  "projects": [\n    {\n      "name": "Reactivities",\n      "date": "March 2025",\n      "technologies": [\n        "React(vite)",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "MobX",\n        "Typescript",\n        "CQRS",\n        "MediatR",\n        "SignalR",\n        "Sqlite"\n      ],\n      "description": "A full-stack web application designed for event management and social interactions with real-time features like notifications and chat."\n    },\n    {\n      "name": "Re-Store",\n      "date": "February 2025",\n      "technologies": [\n        "React(vite)",\n        "Typescript",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "Redux",\n        "sqlite"\n      ],\n      "description": "A full-stack web application designed for E-Commerce application allowing users to add products to cart and place orders."\n    },\n    {\n      "name": "My Portfolio",\n      "date": "February 2025",\n      "technologies": [\n        "React",\n        "JavaScript",\n        "HTML",\n        "CSS"\n      ],\n      "description": "A personal portfolio website to showcase skills, projects, and experience, built with React and optimized using Vite."\n    },\n    {\n      "name": "Community Communication Website",\n      "date": "September 2024",\n      "technologies": [\n        "C#",\n        "Angular",\n        ".NET 8"\n      ],\n      "description": "Implemented Weather Forecast API and developed features like complaint management, event scheduling, and service requests."\n    },\n    {\n      "name": "Loan Approval Prediction Using Machine Learning",\n      "date": "October 2023",\n      "technologies": [\n        "Python",\n        "Machine Learning"\n      ],\n      "description": "Used various machine learning algorithms for loan approval prediction, achieving superior accuracy with Gaussian Naive Bayes."\n    }\n  ],\n  "Certifications": [\n    "SQL - HackerRank, Sep 2023",\n    "Python - HackerRank",\n    "Linguaskill - Cambridge Linguaskill, Dec 2022",\n    "Agile, Scrum, and Kanban - Udemy",\n    "Power BI - Udemy",\n    "AzureDevops - Udemy",\n    "dotnet with azure - Udemy",\n    "snowflake - Udemy"\n  ]\n}\n```', 'refusal': None, 'role': 'assistant'}}], 'created': 1746174340, 'id': 'chatcmpl-BSg0CGOgNJWgEyoGslgFRvvPW1HIL', 'model': 'gpt-4o-2024-08-06', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': 'fp_ee1d74bde0', 'usage': {'completion_tokens': 712, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 895, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1607}}
+2025-05-02 13:56:41,873 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 13:56:41,875 - root - INFO - Response from OpenAI API: {'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'stop', 'index': 0, 'logprobs': None, 'message': {'content': '```json\n{\n  "name": "Kummitha Venkata Kotireddy",\n  "email": "venkatakoti18@gmail.com",\n  "phone": "+91 8499857148",\n  "skills": [\n    "C#",\n    "Python",\n    "Java",\n    "HTML/CSS",\n    "C",\n    "SQL",\n    "ReactJS",\n    "ASP .NET Core",\n    "Angular"\n  ],\n  "experience": [\n    {\n      "company": "UST Global",\n      "position": "Software Development Engineer-I",\n      "location": "Kochi, India",\n      "duration": "Jul 2024 – Present",\n      "responsibilities": [\n        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",\n        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."\n      ]\n    }\n  ],\n  "projects": [\n    {\n      "name": "Reactivities",\n      "date": "March 2025",\n      "technologies": [\n        "React(vite)",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "MobX",\n        "Typescript",\n        "CQRS",\n        "MediatR",\n        "SignalR",\n        "Sqlite"\n      ],\n      "description": "A full-stack web application designed for event management and social interactions with real-time features like notifications and chat."\n    },\n    {\n      "name": "Re-Store",\n      "date": "February 2025",\n      "technologies": [\n        "React(vite)",\n        "Typescript",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "Redux",\n        "sqlite"\n      ],\n      "description": "A full-stack web application designed for E-Commerce application allowing users to add products to cart and place orders."\n    },\n    {\n      "name": "My Portfolio",\n      "date": "February 2025",\n      "technologies": [\n        "React",\n        "JavaScript",\n        "HTML",\n        "CSS"\n      ],\n      "description": "A personal portfolio website to showcase skills, projects, and experience, built with React and optimized using Vite."\n    },\n    {\n      "name": "Community Communication Website",\n      "date": "September 2024",\n      "technologies": [\n        "C#",\n        "Angular",\n        ".NET 8"\n      ],\n      "description": "Implemented Weather Forecast API and developed features like complaint management, event scheduling, and service requests."\n    },\n    {\n      "name": "Loan Approval Prediction Using Machine Learning",\n      "date": "October 2023",\n      "technologies": [\n        "Python",\n        "Machine Learning"\n      ],\n      "description": "Used various machine learning algorithms for loan approval prediction with Gaussian Naive Bayes achieving superior accuracy."\n    }\n  ],\n  "Certifications": [\n    "SQL - HackerRank, Sep 2023",\n    "Python - HackerRank",\n    "Linguaskill - Cambridge Linguaskill, Dec 2022",\n    "Agile, Scrum, and Kanban - Udemy",\n    "Power BI - Udemy",\n    "AzureDevops - Udemy",\n    "dotnet with azure - Udemy",\n    "snowflake - Udemy"\n  ]\n}\n```', 'refusal': None, 'role': 'assistant'}}], 'created': 1746174394, 'id': 'chatcmpl-BSg14XVgkGer9bvBG4xa8pxdGWYo4', 'model': 'gpt-4o-2024-08-06', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': 'fp_ee1d74bde0', 'usage': {'completion_tokens': 711, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 895, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1606}}
+2025-05-02 14:03:35,522 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 14:03:35,524 - root - INFO - Response from OpenAI API: {'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'stop', 'index': 0, 'logprobs': None, 'message': {'content': '```json\n{\n  "name": "Kummitha Venkata Kotireddy",\n  "email": "venkatakoti18@gmail.com",\n  "phone": "+91 8499857148",\n  "skills": [\n    "C#",\n    "Python",\n    "Java",\n    "HTML/CSS",\n    "C",\n    "SQL",\n    "ReactJS",\n    "ASP .NET Core",\n    "Angular"\n  ],\n  "experience": [\n    {\n      "company": "UST Global",\n      "position": "Software Development Engineer-I",\n      "location": "Kochi, India",\n      "duration": "Jul 2024 – Present",\n      "responsibilities": [\n        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",\n        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."\n      ]\n    }\n  ],\n  "projects": [\n    {\n      "name": "Reactivities",\n      "date": "March 2025",\n      "technologies": [\n        "React(vite)",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "MobX",\n        "Typescript",\n        "CQRS",\n        "MediatR",\n        "SignalR",\n        "Sqlite"\n      ],\n      "description": "A full-stack web application designed for event management and social interactions with real-time features like notifications and chat."\n    },\n    {\n      "name": "Re-Store",\n      "date": "February 2025",\n      "technologies": [\n        "React(vite)",\n        "Typescript",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "Redux",\n        "sqlite"\n      ],\n      "description": "A full-stack web application designed for E-Commerce, allowing users to add products to cart and place orders."\n    },\n    {\n      "name": "My Portfolio",\n      "date": "February 2025",\n      "technologies": [\n        "React",\n        "JavaScript",\n        "HTML",\n        "CSS"\n      ],\n      "description": "A personal portfolio website to showcase skills, projects, and experience, built with React and optimized using Vite."\n    },\n    {\n      "name": "Community Communication Website",\n      "date": "September 2024",\n      "technologies": [\n        "C#",\n        "Angular",\n        ".NET 8"\n      ],\n      "description": "Implemented Weather Forecast API and developed features like complaint management, event scheduling, and service requests."\n    },\n    {\n      "name": "Loan Approval Prediction Using Machine Learning",\n      "date": "October 2023",\n      "technologies": [\n        "Python",\n        "Machine Learning"\n      ],\n      "description": "Used various machine learning algorithms for loan approval prediction, with Gaussian Naive Bayes achieving superior accuracy."\n    }\n  ],\n  "Certifications": [\n    "SQL - HackerRank, Sep 2023",\n    "Python - HackerRank",\n    "Linguaskill - Cambridge Linguaskill, Dec 2022",\n    "Agile, Scrum, and Kanban - Udemy",\n    "Power BI - Udemy",\n    "AzureDevops - Udemy",\n    "dotnet with azure - Udemy",\n    "snowflake - Udemy"\n  ]\n}\n```', 'refusal': None, 'role': 'assistant'}}], 'created': 1746174808, 'id': 'chatcmpl-BSg7kFCWSWdJHqmmKpmWW5MHPQWmI', 'model': 'gpt-4o-2024-08-06', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': 'fp_ee1d74bde0', 'usage': {'completion_tokens': 712, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 895, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1607}}
+2025-05-02 14:05:31,383 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 14:05:31,385 - root - INFO - Response from OpenAI API: {'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'stop', 'index': 0, 'logprobs': None, 'message': {'content': '```json\n{\n  "name": "Kummitha Venkata Kotireddy",\n  "email": "venkatakoti18@gmail.com",\n  "phone": "+91 8499857148",\n  "skills": [\n    "C#",\n    "Python",\n    "Java",\n    "HTML/CSS",\n    "C",\n    "SQL",\n    "ReactJS",\n    "ASP .NET Core",\n    "Angular"\n  ],\n  "experience": [\n    {\n      "company": "UST Global",\n      "position": "Software Development Engineer-I",\n      "location": "Kochi, India",\n      "duration": "Jul 2024 – Present",\n      "responsibilities": [\n        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",\n        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."\n      ]\n    }\n  ],\n  "projects": [\n    {\n      "name": "Reactivities",\n      "date": "March 2025",\n      "technologies": [\n        "React(vite)",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "MobX",\n        "Typescript",\n        "CQRS",\n        "MediatR",\n        "SignalR",\n        "Sqlite"\n      ],\n      "description": "A full-stack web application for event management and social interactions with real-time features like notifications and chat."\n    },\n    {\n      "name": "Re-Store",\n      "date": "February 2025",\n      "technologies": [\n        "React(vite)",\n        "Typescript",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "Redux",\n        "sqlite"\n      ],\n      "description": "A full-stack web application for E-Commerce allowing users to add products to cart and place orders."\n    },\n    {\n      "name": "My Portfolio",\n      "date": "February 2025",\n      "technologies": [\n        "React",\n        "JavaScript",\n        "HTML",\n        "CSS"\n      ],\n      "description": "A personal portfolio website showcasing skills, projects, and experience, built with React and optimized using Vite."\n    },\n    {\n      "name": "Community Communication Website",\n      "date": "September 2024",\n      "technologies": [\n        "C#",\n        "Angular",\n        ".NET 8"\n      ],\n      "description": "Implemented Weather Forecast API and developed features like complaint management, event scheduling, and service requests."\n    },\n    {\n      "name": "Loan Approval Prediction Using Machine Learning",\n      "date": "October 2023",\n      "technologies": [\n        "Python",\n        "Machine Learning"\n      ],\n      "description": "Used various machine learning algorithms for loan approval prediction, with Gaussian Naive Bayes achieving superior accuracy."\n    }\n  ],\n  "Certifications": [\n    "SQL - HackerRank, Sep 2023",\n    "Python - HackerRank",\n    "Linguaskill - Cambridge Linguaskill, Dec 2022",\n    "Agile, Scrum, and Kanban - Udemy",\n    "Power BI - Udemy",\n    "AzureDevops - Udemy",\n    "dotnet with azure - Udemy",\n    "snowflake - Udemy"\n  ]\n}\n```', 'refusal': None, 'role': 'assistant'}}], 'created': 1746174923, 'id': 'chatcmpl-BSg9b4tknId3Md1ffxNeipGSB51pZ', 'model': 'gpt-4o-2024-08-06', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': 'fp_ee1d74bde0', 'usage': {'completion_tokens': 708, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 895, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1603}}
+2025-05-02 14:05:46,286 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 14:05:46,288 - root - INFO - Response from OpenAI API: {'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'stop', 'index': 0, 'logprobs': None, 'message': {'content': '```json\n{\n  "name": "Kummitha Venkata Kotireddy",\n  "email": "venkatakoti18@gmail.com",\n  "phone": "+91 8499857148",\n  "skills": [\n    "C#",\n    "Python",\n    "Java",\n    "HTML/CSS",\n    "C",\n    "SQL",\n    "ReactJS",\n    "ASP .NET Core",\n    "Angular"\n  ],\n  "experience": [\n    {\n      "company": "UST Global",\n      "position": "Software Development Engineer-I",\n      "location": "Kochi, India",\n      "duration": "Jul 2024 – Present",\n      "responsibilities": [\n        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",\n        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."\n      ]\n    }\n  ],\n  "projects": [\n    {\n      "name": "Reactivities",\n      "date": "March 2025",\n      "technologies": [\n        "React(vite)",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "MobX",\n        "Typescript",\n        "CQRS",\n        "MediatR",\n        "SignalR",\n        "Sqlite"\n      ],\n      "description": "A full-stack web application designed for event management and social interactions, featuring real-time notifications and chat."\n    },\n    {\n      "name": "Re-Store",\n      "date": "February 2025",\n      "technologies": [\n        "React(vite)",\n        "Typescript",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "Redux",\n        "sqlite"\n      ],\n      "description": "A full-stack web application designed for E-Commerce, allowing users to add products to cart and place orders."\n    },\n    {\n      "name": "My Portfolio",\n      "date": "February 2025",\n      "technologies": [\n        "React",\n        "JavaScript",\n        "HTML",\n        "CSS"\n      ],\n      "description": "A personal portfolio website to showcase skills, projects, and experience, built with React and optimized using Vite."\n    },\n    {\n      "name": "Community Communication Website",\n      "date": "September 2024",\n      "technologies": [\n        "C#",\n        "Angular",\n        ".NET 8"\n      ],\n      "description": "Implemented Weather Forecast API and developed features like complaint management, event scheduling, and service requests."\n    },\n    {\n      "name": "Loan Approval Prediction Using Machine Learning",\n      "date": "October 2023",\n      "technologies": [\n        "Python",\n        "Machine Learning"\n      ],\n      "description": "Used various machine learning algorithms for loan approval prediction, with Gaussian Naive Bayes achieving superior accuracy."\n    }\n  ],\n  "Certifications": [\n    "SQL - HackerRank, Sep 2023",\n    "Python - HackerRank",\n    "Linguaskill - Cambridge Linguaskill, Dec 2022",\n    "Agile, Scrum, and Kanban - Udemy",\n    "Power BI - Udemy",\n    "AzureDevops - Udemy",\n    "dotnet with azure - Udemy",\n    "snowflake - Udemy"\n  ]\n}\n```', 'refusal': None, 'role': 'assistant'}}], 'created': 1746174938, 'id': 'chatcmpl-BSg9qWAKiz9goIT7euu0RBX05npvD', 'model': 'gpt-4o-2024-08-06', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': 'fp_ee1d74bde0', 'usage': {'completion_tokens': 711, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 895, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1606}}
+2025-05-02 14:06:00,024 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\285072\Desktop\Python\contentExtractor\Backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-02 14:06:15,040 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 14:06:15,040 - root - INFO - Response from OpenAI API: {'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'stop', 'index': 0, 'logprobs': None, 'message': {'content': '```json\n{\n  "name": "Kummitha Venkata Kotireddy",\n  "email": "venkatakoti18@gmail.com",\n  "phone": "+91 8499857148",\n  "skills": [\n    "C#",\n    "Python",\n    "Java",\n    "HTML/CSS",\n    "C",\n    "SQL",\n    "ReactJS",\n    "ASP .NET Core",\n    "Angular"\n  ],\n  "experience": [\n    {\n      "company": "UST Global",\n      "position": "Software Development Engineer-I",\n      "location": "Kochi, India",\n      "duration": "Jul 2024 – Present",\n      "responsibilities": [\n        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",\n        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."\n      ]\n    }\n  ],\n  "projects": [\n    {\n      "name": "Reactivities",\n      "date": "March 2025",\n      "technologies": [\n        "React(vite)",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "MobX",\n        "Typescript",\n        "CQRS",\n        "MediatR",\n        "SignalR",\n        "Sqlite"\n      ],\n      "description": "A full-stack web application designed for event management and social interactions, integrating real-time features like notifications and chat."\n    },\n    {\n      "name": "Re-Store",\n      "date": "February 2025",\n      "technologies": [\n        "React(vite)",\n        "Typescript",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "Redux",\n        "sqlite"\n      ],\n      "description": "A full-stack web application designed for E-Commerce, allowing users to add products to cart and place orders."\n    },\n    {\n      "name": "My Portfolio",\n      "date": "February 2025",\n      "technologies": [\n        "React",\n        "JavaScript",\n        "HTML",\n        "CSS"\n      ],\n      "description": "A personal portfolio website showcasing skills, projects, and experience, built with React and optimized using Vite."\n    },\n    {\n      "name": "Community Communication Website",\n      "date": "September 2024",\n      "technologies": [\n        "C#",\n        "Angular",\n        ".NET 8"\n      ],\n      "description": "Implemented Weather Forecast API and developed features like complaint management, event scheduling, and service requests."\n    },\n    {\n      "name": "Loan Approval Prediction Using Machine Learning",\n      "date": "October 2023",\n      "technologies": [\n        "Python",\n        "Machine Learning"\n      ],\n      "description": "Used various machine learning algorithms for loan approval prediction, with Gaussian Naive Bayes achieving superior accuracy."\n    }\n  ],\n  "Certifications": [\n    "SQL - HackerRank, Sep 2023",\n    "Python - HackerRank",\n    "Linguaskill - Cambridge Linguaskill, Dec 2022",\n    "Agile, Scrum, and Kanban - Udemy",\n    "Power BI - Udemy",\n    "AzureDevops - Udemy",\n    "dotnet with azure - Udemy",\n    "snowflake - Udemy"\n  ]\n}\n```', 'refusal': None, 'role': 'assistant'}}], 'created': 1746174968, 'id': 'chatcmpl-BSgAKbq9pLuDQlZtbD1lSc5SRSNAh', 'model': 'gpt-4o-2024-08-06', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': 'fp_ee1d74bde0', 'usage': {'completion_tokens': 712, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 895, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1607}}
+2025-05-02 14:09:14,443 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 14:09:14,443 - root - INFO - Response from OpenAI API: {'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'stop', 'index': 0, 'logprobs': None, 'message': {'content': '```json\n{\n  "name": "Kummitha Venkata Kotireddy",\n  "email": "venkatakoti18@gmail.com",\n  "phone": "+91 8499857148",\n  "skills": [\n    "C#",\n    "Python",\n    "Java",\n    "HTML/CSS",\n    "C",\n    "SQL",\n    "ReactJS",\n    "ASP .NET Core",\n    "Angular"\n  ],\n  "experience": [\n    {\n      "company": "UST Global",\n      "position": "Software Development Engineer-I",\n      "location": "Kochi, India",\n      "duration": "Jul 2024 – Present",\n      "responsibilities": [\n        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",\n        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."\n      ]\n    }\n  ],\n  "projects": [\n    {\n      "name": "Reactivities",\n      "date": "March 2025",\n      "technologies": [\n        "React(vite)",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "MobX",\n        "Typescript",\n        "CQRS",\n        "MediatR",\n        "SignalR",\n        "Sqlite"\n      ],\n      "description": "Reactivities is a full-stack web application designed for event management and social interactions. It allows users to create, update, and join events while integrating real-time features like notifications and chat."\n    },\n    {\n      "name": "Re-Store",\n      "date": "February 2025",\n      "technologies": [\n        "React(vite)",\n        "Typescript",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "Redux",\n        "sqlite"\n      ],\n      "description": "Re-Store is a full-stack web application designed for E-Commerce application. It allows users to add products to cart and place an order."\n    },\n    {\n      "name": "My Portfolio",\n      "date": "February 2025",\n      "technologies": [\n        "React",\n        "JavaScript",\n        "HTML",\n        "CSS"\n      ],\n      "description": "Designed and developed a personal portfolio website to showcase skills, projects, and experience."\n    },\n    {\n      "name": "Community Communication Website",\n      "date": "September 2024",\n      "technologies": [\n        "C#",\n        "Angular",\n        ".NET 8"\n      ],\n      "description": "Implemented Weather Forecast API to display real-time weather data and developed features like complaint management, event scheduling, and service requests."\n    },\n    {\n      "name": "Loan Approval Prediction Using Machine Learning",\n      "date": "October 2023",\n      "technologies": [\n        "Python",\n        "Machine Learning"\n      ],\n      "description": "The Loan approval prediction can be done by using various machine algorithms like Gaussian Naive Bayes, Random Forest, Decision Tree, KNN, Logistic Regression."\n    }\n  ],\n  "Certifications": [\n    "SQL - HackerRank, Sep 2023",\n    "Python - HackerRank",\n    "Linguaskill - Cambridge Linguaskill, Dec 2022",\n    "Agile, Scrum, and Kanban - Udemy",\n    "Power BI - Udemy",\n    "AzureDevops - Udemy",\n    "dotnet with azure - Udemy",\n    "snowflake - Udemy"\n  ]\n}\n```', 'refusal': None, 'role': 'assistant'}}], 'created': 1746175146, 'id': 'chatcmpl-BSgDCKA2ETLLbfJEuhP82rz3LaKpF', 'model': 'gpt-4o-2024-08-06', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': 'fp_ee1d74bde0', 'usage': {'completion_tokens': 746, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 895, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1641}}
+2025-05-02 14:10:09,411 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 14:10:09,414 - root - INFO - Response from OpenAI API: {'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'stop', 'index': 0, 'logprobs': None, 'message': {'content': '```json\n{\n  "name": "Kummitha Venkata Kotireddy",\n  "email": "venkatakoti18@gmail.com",\n  "phone": "+91 8499857148",\n  "skills": [\n    "C#",\n    "Python",\n    "Java",\n    "HTML/CSS",\n    "C",\n    "SQL",\n    "ReactJS",\n    "ASP .NET Core",\n    "Angular"\n  ],\n  "experience": [\n    {\n      "company": "UST Global",\n      "position": "Software Development Engineer-I",\n      "location": "Kochi, India",\n      "duration": "Jul 2024 – Present",\n      "responsibilities": [\n        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",\n        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."\n      ]\n    }\n  ],\n  "projects": [\n    {\n      "name": "Reactivities",\n      "date": "March 2025",\n      "technologies": [\n        "React(vite)",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "MobX",\n        "Typescript",\n        "CQRS",\n        "MediatR",\n        "SignalR",\n        "Sqlite"\n      ],\n      "description": "Reactivities is a full-stack web application designed for event management and social interactions. It allows users to create, update, and join events while integrating real-time features like notifications and chat."\n    },\n    {\n      "name": "Re-Store",\n      "date": "February 2025",\n      "technologies": [\n        "React(vite)",\n        "Typescript",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "Redux",\n        "sqlite"\n      ],\n      "description": "Re-Store is a full-stack web application designed for E-Commerce application. It allows users to add products to cart and place an order."\n    },\n    {\n      "name": "My Portfolio",\n      "date": "February 2025",\n      "technologies": [\n        "React",\n        "JavaScript",\n        "HTML",\n        "CSS"\n      ],\n      "description": "Designed and developed a personal portfolio website to showcase skills, projects, and experience. Built with React and optimized using Vite."\n    },\n    {\n      "name": "Community Communication Website",\n      "date": "September 2024",\n      "technologies": [\n        "C#",\n        "Angular",\n        ".NET 8"\n      ],\n      "description": "Implemented Weather Forecast API to display real-time weather data. Developed features like complaint management, event scheduling, and service requests."\n    },\n    {\n      "name": "Loan Approval Prediction Using Machine Learning",\n      "date": "October 2023",\n      "technologies": [\n        "Python",\n        "Machine Learning"\n      ],\n      "description": "The Loan approval prediction can be done by using various machine algorithms like Gaussian Naive Bayes, Random Forest, Decision Tree, KNN, Logistic Regression."\n    }\n  ],\n  "Certifications": [\n    "SQL - HackerRank, Sep 2023",\n    "Python - HackerRank",\n    "Linguaskill - Cambridge Linguaskill, Dec 2022",\n    "Agile, Scrum, and Kanban - Udemy",\n    "Power BI - Udemy",\n    "AzureDevops - Udemy",\n    "dotnet with azure - Udemy",\n    "snowflake - Udemy"\n  ]\n}\n```', 'refusal': None, 'role': 'assistant'}}], 'created': 1746175201, 'id': 'chatcmpl-BSgE5V428SG37wXBqGJUUOX66MhDH', 'model': 'gpt-4o-2024-08-06', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': 'fp_ee1d74bde0', 'usage': {'completion_tokens': 755, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 895, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1650}}
+2025-05-02 14:12:12,450 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 14:12:12,451 - root - INFO - Response from OpenAI API: {'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'stop', 'index': 0, 'logprobs': None, 'message': {'content': '```json\n{\n  "name": "Kummitha Venkata Kotireddy",\n  "email": "venkatakoti18@gmail.com",\n  "phone": "+91 8499857148",\n  "skills": [\n    "C#",\n    "Python",\n    "Java",\n    "HTML/CSS",\n    "C",\n    "SQL",\n    "ReactJS",\n    "ASP .NET Core",\n    "Angular"\n  ],\n  "experience": [\n    {\n      "company": "UST Global",\n      "position": "Software Development Engineer-I",\n      "location": "Kochi, India",\n      "duration": "Jul 2024 – Present",\n      "responsibilities": [\n        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",\n        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."\n      ]\n    }\n  ],\n  "projects": [\n    {\n      "name": "Reactivities",\n      "date": "March 2025",\n      "technologies": [\n        "React(vite)",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "MobX",\n        "Typescript",\n        "CQRS",\n        "MediatR",\n        "SignalR",\n        "Sqlite"\n      ],\n      "description": "A full-stack web application designed for event management and social interactions, featuring real-time notifications and chat."\n    },\n    {\n      "name": "Re-Store",\n      "date": "February 2025",\n      "technologies": [\n        "React(vite)",\n        "Typescript",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "Redux",\n        "Sqlite"\n      ],\n      "description": "A full-stack web application designed for E-Commerce, allowing users to add products to cart and place orders."\n    },\n    {\n      "name": "My Portfolio",\n      "date": "February 2025",\n      "technologies": [\n        "React",\n        "JavaScript",\n        "HTML",\n        "CSS"\n      ],\n      "description": "A personal portfolio website showcasing skills, projects, and experience, built with React and optimized using Vite."\n    },\n    {\n      "name": "Community Communication Website",\n      "date": "September 2024",\n      "technologies": [\n        "C#",\n        "Angular",\n        ".NET 8"\n      ],\n      "description": "Implemented Weather Forecast API and developed features like complaint management, event scheduling, and service requests."\n    },\n    {\n      "name": "Loan Approval Prediction Using Machine Learning",\n      "date": "October 2023",\n      "technologies": [\n        "Python",\n        "Machine Learning"\n      ],\n      "description": "Used various machine learning algorithms for loan approval prediction, with Gaussian Naive Bayes achieving superior accuracy."\n    }\n  ],\n  "Certifications": [\n    "SQL - HackerRank, Sep 2023",\n    "Python - HackerRank",\n    "Linguaskill - Cambridge Linguaskill, Dec 2022",\n    "Agile, Scrum, and Kanban - Udemy",\n    "Power BI - Udemy",\n    "AzureDevops - Udemy",\n    "dotnet with azure - Udemy",\n    "snowflake - Udemy"\n  ]\n}\n```', 'refusal': None, 'role': 'assistant'}}], 'created': 1746175323, 'id': 'chatcmpl-BSgG3Nco5nDFPvdgS3xmpWJSeeEsp', 'model': 'gpt-4o-2024-08-06', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': 'fp_ee1d74bde0', 'usage': {'completion_tokens': 711, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 895, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1606}}
+2025-05-02 14:13:13,364 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 14:13:13,366 - root - INFO - Response from OpenAI API: {'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'stop', 'index': 0, 'logprobs': None, 'message': {'content': '```json\n{\n  "name": "Kummitha Venkata Kotireddy",\n  "email": "venkatakoti18@gmail.com",\n  "phone": "+91 8499857148",\n  "skills": [\n    "C#",\n    "Python",\n    "Java",\n    "HTML/CSS",\n    "C",\n    "SQL",\n    "ReactJS",\n    "ASP .NET Core",\n    "Angular"\n  ],\n  "experience": [\n    {\n      "company": "UST Global",\n      "position": "Software Development Engineer-I",\n      "location": "Kochi, India",\n      "duration": "Jul 2024 – Present",\n      "responsibilities": [\n        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",\n        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."\n      ]\n    }\n  ],\n  "projects": [\n    {\n      "name": "Reactivities",\n      "date": "March 2025",\n      "technologies": [\n        "React(vite)",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "MobX",\n        "Typescript",\n        "CQRS",\n        "MediatR",\n        "SignalR",\n        "Sqlite"\n      ],\n      "description": "Reactivities is a full-stack web application designed for event management and social interactions."\n    },\n    {\n      "name": "Re-Store",\n      "date": "February 2025",\n      "technologies": [\n        "React(vite)",\n        "Typescript",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "Redux",\n        "sqlite"\n      ],\n      "description": "Re-Store is a full-stack web application designed for E-Commerce application."\n    },\n    {\n      "name": "My Portfolio",\n      "date": "February 2025",\n      "technologies": [\n        "React",\n        "JavaScript",\n        "HTML",\n        "CSS"\n      ],\n      "description": "Designed and developed a personal portfolio website to showcase skills, projects, and experience."\n    },\n    {\n      "name": "Community Communication Website",\n      "date": "September 2024",\n      "technologies": [\n        "C#",\n        "Angular",\n        ".NET 8"\n      ],\n      "description": "Implemented Weather Forecast API and developed features like complaint management, event scheduling, and service requests."\n    },\n    {\n      "name": "Loan Approval Prediction Using Machine Learning",\n      "date": "October 2023",\n      "technologies": [\n        "Python",\n        "Machine Learning"\n      ],\n      "description": "Loan approval prediction using algorithms like Gaussian Naive Bayes, Random Forest, Decision Tree, KNN, Logistic Regression."\n    }\n  ],\n  "Certifications": [\n    "SQL - HackerRank, Sep 2023",\n    "Python - HackerRank",\n    "Linguaskill - Cambridge Linguaskill, Dec 2022",\n    "Agile, Scrum, and Kanban - Udemy",\n    "Power BI - Udemy",\n    "AzureDevops - Udemy",\n    "dotnet with azure - Udemy",\n    "snowflake - Udemy"\n  ]\n}\n```', 'refusal': None, 'role': 'assistant'}}], 'created': 1746175383, 'id': 'chatcmpl-BSgH1LKh2E8mn64LTv9KRTZFxo4Qi', 'model': 'gpt-4o-2024-08-06', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': 'fp_ee1d74bde0', 'usage': {'completion_tokens': 699, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 895, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1594}}
+2025-05-02 14:15:36,911 - resume - INFO - Server shutting down
+2025-05-02 14:15:39,844 - resume - INFO - Server started successfully
+2025-05-02 14:15:58,543 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 14:15:58,544 - root - INFO - Response from OpenAI API: {'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'stop', 'index': 0, 'logprobs': None, 'message': {'content': '```json\n{\n  "name": "Kummitha Venkata Kotireddy",\n  "email": "venkatakoti18@gmail.com",\n  "phone": "+91 8499857148",\n  "skills": [\n    "C#",\n    "Python",\n    "Java",\n    "HTML/CSS",\n    "C",\n    "SQL",\n    "ReactJS",\n    "ASP .NET Core",\n    "Angular"\n  ],\n  "experience": [\n    {\n      "company": "UST Global",\n      "position": "Software Development Engineer-I",\n      "location": "Kochi, India",\n      "duration": "Jul 2024 – Present",\n      "responsibilities": [\n        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",\n        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."\n      ]\n    }\n  ],\n  "projects": [\n    {\n      "name": "Reactivities",\n      "date": "March 2025",\n      "technologies": [\n        "React(vite)",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "MobX",\n        "Typescript",\n        "CQRS",\n        "MediatR",\n        "SignalR",\n        "Sqlite"\n      ],\n      "description": "A full-stack web application designed for event management and social interactions with real-time features like notifications and chat."\n    },\n    {\n      "name": "Re-Store",\n      "date": "February 2025",\n      "technologies": [\n        "React(vite)",\n        "Typescript",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "Redux",\n        "sqlite"\n      ],\n      "description": "A full-stack web application designed for E-Commerce, allowing users to add products to cart and place orders."\n    },\n    {\n      "name": "My Portfolio",\n      "date": "February 2025",\n      "technologies": [\n        "React",\n        "JavaScript",\n        "HTML",\n        "CSS"\n      ],\n      "description": "A personal portfolio website showcasing skills, projects, and experience, built with React and optimized using Vite."\n    },\n    {\n      "name": "Community Communication Website",\n      "date": "September 2024",\n      "technologies": [\n        "C#",\n        "Angular",\n        ".NET 8"\n      ],\n      "description": "Implemented Weather Forecast API and developed features like complaint management, event scheduling, and service requests."\n    },\n    {\n      "name": "Loan Approval Prediction Using Machine Learning",\n      "date": "October 2023",\n      "technologies": [\n        "Python",\n        "Machine Learning"\n      ],\n      "description": "Used machine learning algorithms like Gaussian Naive Bayes, Random Forest, Decision Tree, KNN, Logistic Regression for loan approval prediction."\n    }\n  ],\n  "Certifications": [\n    "SQL - HackerRank, Sep 2023",\n    "Python - HackerRank",\n    "Linguaskill - Cambridge Linguaskill, Dec 2022",\n    "Agile, Scrum, and Kanban - Udemy",\n    "Power BI - Udemy",\n    "AzureDevops - Udemy",\n    "dotnet with azure - Udemy",\n    "snowflake - Udemy"\n  ]\n}\n```', 'refusal': None, 'role': 'assistant'}}], 'created': 1746175551, 'id': 'chatcmpl-BSgJjGgfK9p8BWchdbxO9KEYIRuzv', 'model': 'gpt-4o-2024-08-06', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': 'fp_ee1d74bde0', 'usage': {'completion_tokens': 718, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 895, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1613}}
+2025-05-02 14:16:24,859 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\285072\Desktop\Python\contentExtractor\Backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-02 14:16:46,216 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 14:16:46,218 - root - INFO - Response from OpenAI API: {'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'stop', 'index': 0, 'logprobs': None, 'message': {'content': '```json\n{\n  "name": "Kummitha Venkata Kotireddy",\n  "email": "venkatakoti18@gmail.com",\n  "phone": "+91 8499857148",\n  "skills": [\n    "C#",\n    "Python",\n    "Java",\n    "HTML/CSS",\n    "C",\n    "SQL",\n    "ReactJS",\n    "ASP .NET Core",\n    "Angular"\n  ],\n  "experience": [\n    {\n      "company": "UST Global",\n      "position": "Software Development Engineer-I",\n      "location": "Kochi, India",\n      "duration": "Jul 2024 – Present",\n      "responsibilities": [\n        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",\n        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."\n      ]\n    }\n  ],\n  "projects": [\n    {\n      "name": "Reactivities",\n      "date": "March 2025",\n      "technologies": [\n        "React(vite)",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "MobX",\n        "Typescript",\n        "CQRS",\n        "MediatR",\n        "SignalR",\n        "Sqlite"\n      ],\n      "description": "Reactivities is a full-stack web application designed for event management and social interactions. It allows users to create, update, and join events while integrating real-time features like notifications and chat."\n    },\n    {\n      "name": "Re-Store",\n      "date": "February 2025",\n      "technologies": [\n        "React(vite)",\n        "Typescript",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "Redux",\n        "sqlite"\n      ],\n      "description": "Re-Store is a full-stack web application designed for E-Commerce application. It allows users to add products to cart and place an order."\n    },\n    {\n      "name": "My Portfolio",\n      "date": "February 2025",\n      "technologies": [\n        "React",\n        "JavaScript",\n        "HTML",\n        "CSS"\n      ],\n      "description": "Designed and developed a personal portfolio website to showcase skills, projects, and experience. Built with React and optimized using Vite for fast performance."\n    },\n    {\n      "name": "Community Communication Website",\n      "date": "September 2024",\n      "technologies": [\n        "C#",\n        "Angular",\n        ".NET 8"\n      ],\n      "description": "Implemented Weather Forecast API to display real-time weather data. Developed features like complaint management, event scheduling, and service requests."\n    },\n    {\n      "name": "Loan Approval Prediction Using Machine Learning",\n      "date": "October 2023",\n      "technologies": [\n        "Python",\n        "Machine Learning"\n      ],\n      "description": "The Loan approval prediction can be done by using various machine algorithms like Gaussian Naive Bayes, Random Forest, Decision Tree, KNN, Logistic Regression."\n    }\n  ],\n  "Certifications": [\n    "SQL - HackerRank, Sep 2023",\n    "Python - HackerRank",\n    "Linguaskill - Cambridge Linguaskill, Dec 2022",\n    "Agile, Scrum, and Kanban - Udemy",\n    "Power BI - Udemy",\n    "AzureDevops - Udemy",\n    "dotnet with azure - Udemy",\n    "snowflake - Udemy"\n  ]\n}\n```', 'refusal': None, 'role': 'assistant'}}], 'created': 1746175598, 'id': 'chatcmpl-BSgKUwhus2f0ssyzShfl1qjWqHdNn', 'model': 'gpt-4o-2024-08-06', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': 'fp_ee1d74bde0', 'usage': {'completion_tokens': 758, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 895, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1653}}
+2025-05-02 14:18:35,999 - resume - INFO - Server shutting down
+2025-05-02 14:18:38,497 - resume - INFO - Server started successfully
+2025-05-02 14:18:51,124 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 14:18:51,126 - root - INFO - Response from OpenAI API: {'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'stop', 'index': 0, 'logprobs': None, 'message': {'content': '```json\n{\n  "name": "Kummitha Venkata Kotireddy",\n  "email": "venkatakoti18@gmail.com",\n  "phone": "+91 8499857148",\n  "skills": [\n    "C#",\n    "Python",\n    "Java",\n    "HTML/CSS",\n    "C",\n    "SQL",\n    "ReactJS",\n    "ASP .NET Core",\n    "Angular"\n  ],\n  "experience": [\n    {\n      "company": "UST Global",\n      "position": "Software Development Engineer-I",\n      "location": "Kochi, India",\n      "duration": "Jul 2024 – Present",\n      "responsibilities": [\n        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",\n        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."\n      ]\n    }\n  ],\n  "projects": [\n    {\n      "name": "Reactivities",\n      "date": "March 2025",\n      "technologies": [\n        "React(vite)",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "MobX",\n        "Typescript",\n        "CQRS",\n        "MediatR",\n        "SignalR",\n        "Sqlite"\n      ],\n      "description": "Reactivities is a full-stack web application designed for event management and social interactions. It allows users to create, update, and join events while integrating real-time features like notifications and chat."\n    },\n    {\n      "name": "Re-Store",\n      "date": "February 2025",\n      "technologies": [\n        "React(vite)",\n        "Typescript",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "Redux",\n        "sqlite"\n      ],\n      "description": "Re-Store is a full-stack web application designed for E-Commerce application. It allows users to add products to cart and place an order."\n    },\n    {\n      "name": "My Portfolio",\n      "date": "February 2025",\n      "technologies": [\n        "React",\n        "JavaScript",\n        "HTML",\n        "CSS"\n      ],\n      "description": "Designed and developed a personal portfolio website to showcase my skills, projects, and experience."\n    },\n    {\n      "name": "Community Communication Website",\n      "date": "September 2024",\n      "technologies": [\n        "C#",\n        "Angular",\n        ".NET 8"\n      ],\n      "description": "Implemented Weather Forecast API to display real-time weather data. Developed features like complaint management, event scheduling, and service requests."\n    },\n    {\n      "name": "Loan Approval Prediction Using Machine Learning",\n      "date": "October 2023",\n      "technologies": [\n        "Python",\n        "Machine Learning"\n      ],\n      "description": "The Loan approval prediction can be done by using various machine algorithms like Gaussian Naive Bayes, Random Forest, Decision Tree, KNN, Logistic Regression in which Gaussian Naive Bayes got superior Accuracy."\n    }\n  ],\n  "Certifications": [\n    "SQL - HackerRank, Sep 2023",\n    "Python - HackerRank",\n    "Linguaskill - Cambridge Linguaskill, Dec 2022",\n    "Agile, Scrum, and Kanban - Udemy",\n    "Power BI - Udemy",\n    "AzureDevops-Udemy",\n    "dotnet with azure-Udemy",\n    "snowflake-Udemy"\n  ]\n}\n```', 'refusal': None, 'role': 'assistant'}}], 'created': 1746175722, 'id': 'chatcmpl-BSgMUz1WCXE35t5B2s2ruORcAgAcz', 'model': 'gpt-4o-2024-08-06', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': 'fp_ee1d74bde0', 'usage': {'completion_tokens': 757, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 895, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1652}}
+2025-05-02 14:19:11,886 - resume - INFO - Server shutting down
+2025-05-02 14:19:14,499 - resume - INFO - Server started successfully
+2025-05-02 14:19:18,782 - resume - INFO - Server shutting down
+2025-05-02 14:19:21,844 - resume - INFO - Server started successfully
+2025-05-02 14:19:38,095 - resume - INFO - Server shutting down
+2025-05-02 14:19:40,195 - resume - INFO - Server started successfully
+2025-05-02 14:19:52,931 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 14:19:52,933 - root - INFO - Response from OpenAI API: {'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'length', 'index': 0, 'logprobs': None, 'message': {'content': '```json\n{\n  "name": "Kummitha Venkata Kotireddy",\n  "email": "venkatakoti18@gmail.com",\n  "phone": "+91 8499857148",\n  "skills": [\n    "C#",\n    "Python",\n    "Java",\n    "HTML/CSS",\n    "C",\n    "SQL",\n    "ReactJS",\n    "ASP .NET Core",\n    "Angular"\n  ],\n  "experience": [\n    {\n      "company": "UST Global",\n      "position": "Software Development Engineer-I",\n      "location": "Kochi, India",\n      "duration": "Jul 2024 – Present",\n      "responsibilities": [\n        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",\n        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."\n      ]\n    }\n  ],\n  "projects": [\n    {\n      "name": "Reactivities",\n      "date": "March 2025",\n      "technologies": [\n        "React(vite)",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "MobX",\n        "Typescript",\n        "CQRS",\n        "MediatR",\n        "SignalR",\n        "Sqlite"\n      ],\n      "description": "Reactivities is a full-stack web application designed for event management and social interactions. It allows users to create, update, and join events while integrating real-time features like notifications and chat."\n    },\n    {\n      "name": "Re-Store",\n      "date": "February 2025",\n      "technologies": [\n        "React(vite)",\n        "Typescript",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "Redux",\n        "sqlite"\n      ],\n      "description": "Re-Store is a full-stack web application designed for E-Commerce application. It allows users to add products to cart and place an order."\n    },\n    {\n      "name": "My Portfolio",\n      "date": "February 2025",\n      "technologies": [\n        "React",\n        "JavaScript",\n        "HTML",\n        "CSS"\n      ],\n      "description": "Designed and developed a personal portfolio website to showcase skills, projects, and experience. Built with React and optimized using Vite for fast performance."\n    },\n    {\n      "name": "Community Communication Website",\n      "date": "September 2024",\n      "technologies": [\n        "C#",\n        "Angular",\n        ".NET 8"\n      ],\n      "description": "Implemented Weather Forecast API to display real-time weather data. Developed features like complaint management, event scheduling, and service requests."\n    },\n    {\n      "name": "Loan Approval Prediction Using Machine Learning",\n      "date": "October 2023",\n      "technologies": [\n        "Python",\n        "Machine Learning"\n      ],\n      "description": "The Loan approval prediction can be done by using various machine algorithms like Gaussian Naive Bayes, Random Forest, Decision Tree, KNN, Logistic Regression."\n    }\n  ],\n  "Certifications": [\n    "SQL - HackerRank, Sep 2023",\n    "Python - HackerRank",\n    "Linguaskill - Cambridge Linguaskill, Dec 2022",\n    "Agile, Scrum, and Kanban - Udemy",\n    "Power BI - Udemy",\n    "AzureDevops - Udemy",\n    "dotnet with azure - Udemy",\n    "snowflake - Udemy"\n  ],\n  "Achievements": [\n    "Student Topper Award - Nov 2022",\n    "Subject Topper Award in Data Structures - Nov 2023",\n    "5* in Problem Solving and Python on HackerRank', 'refusal': None, 'role': 'assistant'}}], 'created': 1746175783, 'id': 'chatcmpl-BSgNTzhrWPmCiUSmfwIcJWSiewZ81', 'model': 'gpt-4o-2024-08-06', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': 'fp_ee1d74bde0', 'usage': {'completion_tokens': 800, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 897, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1697}}
+2025-05-02 14:19:52,939 - root - ERROR - Invalid JSON returned by model:
+{
+  "name": "Kummitha Venkata Kotireddy",
+  "email": "venkatakoti18@gmail.com",
+  "phone": "+91 8499857148",
+  "skills": [
+    "C#",
+    "Python",
+    "Java",
+    "HTML/CSS",
+    "C",
+    "SQL",
+    "ReactJS",
+    "ASP .NET Core",
+    "Angular"
+  ],
+  "experience": [
+    {
+      "company": "UST Global",
+      "position": "Software Development Engineer-I",
+      "location": "Kochi, India",
+      "duration": "Jul 2024 – Present",
+      "responsibilities": [
+        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",
+        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Reactivities",
+      "date": "March 2025",
+      "technologies": [
+        "React(vite)",
+        "HTML",
+        "CSS",
+        ".NET 8",
+        "MobX",
+        "Typescript",
+        "CQRS",
+        "MediatR",
+        "SignalR",
+        "Sqlite"
+      ],
+      "description": "Reactivities is a full-stack web application designed for event management and social interactions. It allows users to create, update, and join events while integrating real-time features like notifications and chat."
+    },
+    {
+      "name": "Re-Store",
+      "date": "February 2025",
+      "technologies": [
+        "React(vite)",
+        "Typescript",
+        "HTML",
+        "CSS",
+        ".NET 8",
+        "Redux",
+        "sqlite"
+      ],
+      "description": "Re-Store is a full-stack web application designed for E-Commerce application. It allows users to add products to cart and place an order."
+    },
+    {
+      "name": "My Portfolio",
+      "date": "February 2025",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "description": "Designed and developed a personal portfolio website to showcase skills, projects, and experience. Built with React and optimized using Vite for fast performance."
+    },
+    {
+      "name": "Community Communication Website",
+      "date": "September 2024",
+      "technologies": [
+        "C#",
+        "Angular",
+        ".NET 8"
+      ],
+      "description": "Implemented Weather Forecast API to display real-time weather data. Developed features like complaint management, event scheduling, and service requests."
+    },
+    {
+      "name": "Loan Approval Prediction Using Machine Learning",
+      "date": "October 2023",
+      "technologies": [
+        "Python",
+        "Machine Learning"
+      ],
+      "description": "The Loan approval prediction can be done by using various machine algorithms like Gaussian Naive Bayes, Random Forest, Decision Tree, KNN, Logistic Regression."
+    }
+  ],
+  "Certifications": [
+    "SQL - HackerRank, Sep 2023",
+    "Python - HackerRank",
+    "Linguaskill - Cambridge Linguaskill, Dec 2022",
+    "Agile, Scrum, and Kanban - Udemy",
+    "Power BI - Udemy",
+    "AzureDevops - Udemy",
+    "dotnet with azure - Udemy",
+    "snowflake - Udemy"
+  ],
+  "Achievements": [
+    "Student Topper Award - Nov 2022",
+    "Subject Topper Award in Data Structures - Nov 2023",
+    "5* in Problem Solving and Python on HackerRank
+2025-05-02 14:19:52,953 - root - ERROR - Error while parsing resume: Invalid JSON returned by model:
+{
+  "name": "Kummitha Venkata Kotireddy",
+  "email": "venkatakoti18@gmail.com",
+  "phone": "+91 8499857148",
+  "skills": [
+    "C#",
+    "Python",
+    "Java",
+    "HTML/CSS",
+    "C",
+    "SQL",
+    "ReactJS",
+    "ASP .NET Core",
+    "Angular"
+  ],
+  "experience": [
+    {
+      "company": "UST Global",
+      "position": "Software Development Engineer-I",
+      "location": "Kochi, India",
+      "duration": "Jul 2024 – Present",
+      "responsibilities": [
+        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",
+        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Reactivities",
+      "date": "March 2025",
+      "technologies": [
+        "React(vite)",
+        "HTML",
+        "CSS",
+        ".NET 8",
+        "MobX",
+        "Typescript",
+        "CQRS",
+        "MediatR",
+        "SignalR",
+        "Sqlite"
+      ],
+      "description": "Reactivities is a full-stack web application designed for event management and social interactions. It allows users to create, update, and join events while integrating real-time features like notifications and chat."
+    },
+    {
+      "name": "Re-Store",
+      "date": "February 2025",
+      "technologies": [
+        "React(vite)",
+        "Typescript",
+        "HTML",
+        "CSS",
+        ".NET 8",
+        "Redux",
+        "sqlite"
+      ],
+      "description": "Re-Store is a full-stack web application designed for E-Commerce application. It allows users to add products to cart and place an order."
+    },
+    {
+      "name": "My Portfolio",
+      "date": "February 2025",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "description": "Designed and developed a personal portfolio website to showcase skills, projects, and experience. Built with React and optimized using Vite for fast performance."
+    },
+    {
+      "name": "Community Communication Website",
+      "date": "September 2024",
+      "technologies": [
+        "C#",
+        "Angular",
+        ".NET 8"
+      ],
+      "description": "Implemented Weather Forecast API to display real-time weather data. Developed features like complaint management, event scheduling, and service requests."
+    },
+    {
+      "name": "Loan Approval Prediction Using Machine Learning",
+      "date": "October 2023",
+      "technologies": [
+        "Python",
+        "Machine Learning"
+      ],
+      "description": "The Loan approval prediction can be done by using various machine algorithms like Gaussian Naive Bayes, Random Forest, Decision Tree, KNN, Logistic Regression."
+    }
+  ],
+  "Certifications": [
+    "SQL - HackerRank, Sep 2023",
+    "Python - HackerRank",
+    "Linguaskill - Cambridge Linguaskill, Dec 2022",
+    "Agile, Scrum, and Kanban - Udemy",
+    "Power BI - Udemy",
+    "AzureDevops - Udemy",
+    "dotnet with azure - Udemy",
+    "snowflake - Udemy"
+  ],
+  "Achievements": [
+    "Student Topper Award - Nov 2022",
+    "Subject Topper Award in Data Structures - Nov 2023",
+    "5* in Problem Solving and Python on HackerRank
+2025-05-02 14:20:14,958 - resume - INFO - Server shutting down
+2025-05-02 14:20:17,593 - resume - INFO - Server started successfully
+2025-05-02 14:20:28,539 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 14:20:28,555 - root - INFO - Response from OpenAI API: {'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'stop', 'index': 0, 'logprobs': None, 'message': {'content': '```json\n{\n  "name": "Kummitha Venkata Kotireddy",\n  "email": "venkatakoti18@gmail.com",\n  "phone": "+91 8499857148",\n  "skills": [\n    "C#",\n    "Python",\n    "Java",\n    "HTML/CSS",\n    "C",\n    "SQL",\n    "ReactJS",\n    "ASP .NET Core",\n    "Angular"\n  ],\n  "experience": [\n    {\n      "company": "UST Global",\n      "position": "Software Development Engineer-I",\n      "location": "Kochi, India",\n      "duration": "Jul 2024 – Present",\n      "responsibilities": [\n        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",\n        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."\n      ]\n    }\n  ],\n  "projects": [\n    {\n      "name": "Reactivities",\n      "date": "March 2025",\n      "technologies": [\n        "React(vite)",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "MobX",\n        "Typescript",\n        "CQRS",\n        "MediatR",\n        "SignalR",\n        "Sqlite"\n      ],\n      "description": "Reactivities is a full-stack web application designed for event management and social interactions."\n    },\n    {\n      "name": "Re-Store",\n      "date": "February 2025",\n      "technologies": [\n        "React(vite)",\n        "Typescript",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "Redux",\n        "sqlite"\n      ],\n      "description": "Re-Store is a full-stack web application designed for E-Commerce application."\n    },\n    {\n      "name": "My Portfolio",\n      "date": "February 2025",\n      "technologies": [\n        "React",\n        "JavaScript",\n        "HTML",\n        "CSS"\n      ],\n      "description": "Designed and developed a personal portfolio website to showcase my skills, projects, and experience."\n    },\n    {\n      "name": "Community Communication Website",\n      "date": "September 2024",\n      "technologies": [\n        "C#",\n        "Angular",\n        ".NET 8"\n      ],\n      "description": "Implemented Weather Forecast API to display real-time weather data."\n    },\n    {\n      "name": "Loan Approval Prediction Using Machine Learning",\n      "date": "October 2023",\n      "technologies": [\n        "Python",\n        "Machine Learning"\n      ],\n      "description": "The Loan approval prediction can be done by using various machine algorithms."\n    }\n  ],\n  "Certifications": [\n    "SQL - HackerRank, Sep 2023",\n    "Python - HackerRank",\n    "Linguaskill - Cambridge Linguaskill, Dec 2022",\n    "Agile, Scrum, and Kanban - Udemy",\n    "Power BI - Udemy",\n    "AzureDevops - Udemy",\n    "dotnet with azure - Udemy",\n    "snowflake - Udemy"\n  ]\n}\n```', 'refusal': None, 'role': 'assistant'}}], 'created': 1746175819, 'id': 'chatcmpl-BSgO3wD0QVih55EmwPpbeMMfoT0Aq', 'model': 'gpt-4o-2024-08-06', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': 'fp_ee1d74bde0', 'usage': {'completion_tokens': 682, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 895, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1577}}
+2025-05-02 14:20:41,923 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\285072\Desktop\Python\contentExtractor\Backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-02 14:20:58,809 - httpx - INFO - HTTP Request: POST https://azure-openai-uk.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-10-21 "HTTP/1.1 200 OK"
+2025-05-02 14:20:58,813 - root - INFO - Response from OpenAI API: {'choices': [{'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}, 'finish_reason': 'stop', 'index': 0, 'logprobs': None, 'message': {'content': '```json\n{\n  "name": "Kummitha Venkata Kotireddy",\n  "email": "venkatakoti18@gmail.com",\n  "phone": "+91 8499857148",\n  "skills": [\n    "C#",\n    "Python",\n    "Java",\n    "HTML/CSS",\n    "C",\n    "SQL",\n    "ReactJS",\n    "ASP .NET Core",\n    "Angular"\n  ],\n  "experience": [\n    {\n      "company": "UST Global",\n      "position": "Software Development Engineer-I",\n      "location": "Kochi, India",\n      "duration": "Jul 2024 – Present",\n      "responsibilities": [\n        "Trained in full-stack development with expertise in .NET framework, Angular, API integration, and cloud technologies.",\n        "Developed Community Residence Management using .NET (backend) and Angular (frontend) following Clean Architecture."\n      ]\n    }\n  ],\n  "projects": [\n    {\n      "name": "Reactivities",\n      "date": "March 2025",\n      "technologies": [\n        "React(vite)",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "MobX",\n        "Typescript",\n        "CQRS",\n        "MediatR",\n        "SignalR",\n        "Sqlite"\n      ],\n      "description": "Reactivities is a full-stack web application designed for event management and social interactions. It allows users to create, update, and join events while integrating real-time features like notifications and chat."\n    },\n    {\n      "name": "Re-Store",\n      "date": "February 2025",\n      "technologies": [\n        "React(vite)",\n        "Typescript",\n        "HTML",\n        "CSS",\n        ".NET 8",\n        "Redux",\n        "sqlite"\n      ],\n      "description": "Re-Store is a full-stack web application designed for E-Commerce application. It allows users to add products to cart and place an order."\n    },\n    {\n      "name": "My Portfolio",\n      "date": "February 2025",\n      "technologies": [\n        "React",\n        "JavaScript",\n        "HTML",\n        "CSS"\n      ],\n      "description": "Designed and developed a personal portfolio website to showcase skills, projects, and experience. Built with React and optimized using Vite."\n    },\n    {\n      "name": "Community Communication Website",\n      "date": "September 2024",\n      "technologies": [\n        "C#",\n        "Angular",\n        ".NET 8"\n      ],\n      "description": "Implemented Weather Forecast API to display real-time weather data. Developed features like complaint management, event scheduling, and service requests."\n    },\n    {\n      "name": "Loan Approval Prediction Using Machine Learning",\n      "date": "October 2023",\n      "technologies": [\n        "Python",\n        "Machine Learning"\n      ],\n      "description": "The Loan approval prediction can be done by using various machine algorithms like Gaussian Naive Bayes, Random Forest, Decision Tree, KNN, Logistic Regression."\n    }\n  ],\n  "Certifications": [\n    "SQL - HackerRank, Sep 2023",\n    "Python - HackerRank",\n    "Linguaskill - Cambridge Linguaskill, Dec 2022",\n    "Agile, Scrum, and Kanban - Udemy",\n    "Power BI - Udemy",\n    "AzureDevops - Udemy",\n    "dotnet with azure - Udemy",\n    "snowflake - Udemy"\n  ]\n}\n```', 'refusal': None, 'role': 'assistant'}}], 'created': 1746175849, 'id': 'chatcmpl-BSgOXvlwrX1hjGklVXQ8LeNV5qYUL', 'model': 'gpt-4o-2024-08-06', 'object': 'chat.completion', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'system_fingerprint': 'fp_ee1d74bde0', 'usage': {'completion_tokens': 755, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens': 895, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}, 'total_tokens': 1650}}
+2025-05-02 14:24:40,413 - resume - INFO - Server shutting down
