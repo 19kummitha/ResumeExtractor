@@ -22,7 +22,7 @@ export default function Register() {
 
   const handleSubmit = async () => {
     try {
-      await axios.post("/register", form);
+      await axios.post("/auth/register", form);
       setSuccess("Registration successful! You can now log in.");
       setError("");
       setTimeout(() => navigate("/login"), 1500);

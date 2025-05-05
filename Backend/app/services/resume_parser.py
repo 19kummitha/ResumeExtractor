@@ -27,8 +27,8 @@ async def parse_resume_with_openai(resume_text: str) -> dict:
         # Define system prompt
         system_prompt = (
             "You are an intelligent resume parser. Extract structured data from resume text. "
-            "Return only a JSON object with the following keys: name, email, phone, skills (list), experience (list of jobs), "
-            "projects, Certifications. "
+            "Return only a JSON object with the following keys: name, email, phone, skills (list),Education, experience (list of jobs), "
+            "projects, Certifications,Acheivements. "
             "Do not include any explanation or commentary."
         )
 
@@ -39,7 +39,7 @@ async def parse_resume_with_openai(resume_text: str) -> dict:
                 {"role": "user", "content": resume_text}
             ],
             "temperature": 0.2,
-            "max_tokens": 800,
+            "max_tokens": 2000,
             "top_p": 1.0,
             "frequency_penalty": 0.0,
             "presence_penalty": 0.0
