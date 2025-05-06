@@ -1,19 +1,61 @@
-from fastapi import APIRouter, UploadFile, File, Depends
+import json
+import os
+from uuid import uuid4
+from fastapi import APIRouter, HTTPException, UploadFile, File, Depends
+from fastapi.responses import FileResponse
 from sqlalchemy.orm import Session
+from app.models import ResumeData
+from app.services.resume_formatter import generate_pdf
 from PyPDF2 import PdfReader
 from app.database import get_db
 from app.services.resume_parser import parse_resume_with_openai
 from auth.auth import JWTBearer
 router = APIRouter(dependencies=[Depends(JWTBearer())])
+DATA_DIR = "app/temp_data"
+os.makedirs(DATA_DIR, exist_ok=True)
 
+@router.post("/resume/save-parsed-data")
+def save_parsed_data(parsed_data: dict,db: Session = Depends(get_db)):
+    data_id = str(uuid4())
+    file_path = os.path.join(DATA_DIR, f"{data_id}.json")
+    with open(file_path, "w") as f:
+        json.dump(parsed_data, f)
+    return {"id": data_id}
 @router.post("/upload")
 async def upload_resume(file: UploadFile = File(...), db: Session = Depends(get_db)):
     pdf = PdfReader(file.file)
     text = "\n".join([page.extract_text() or "" for page in pdf.pages])
+    
+    # Parse resume with OpenAI
     parsed_data = await parse_resume_with_openai(text)
-    return parsed_data
+
+    # Save parsed data
+    data_id = str(uuid4())
+    file_path = os.path.join(DATA_DIR, f"{data_id}.json")
+    with open(file_path, "w") as f:
+        json.dump(parsed_data, f)
+
+    return {
+        "id": data_id,
+        "message": "Resume parsed and saved successfully.",
+        "download_url": f"/resume/generate-pdf/{data_id}"
+    }
 
 
+@router.get("/generate-pdf/{data_id}")
+def generate_pdf_from_stored_data(data_id: str,db: Session = Depends(get_db)):
+    file_path = os.path.join(DATA_DIR, f"{data_id}.json")
+    if not os.path.exists(file_path):
+        raise HTTPException(status_code=404, detail="Data not found")
+
+    with open(file_path, "r") as f:
+        parsed_data_dict = json.load(f)
+
+    # Convert dict to ResumeData model
+    parsed_data = ResumeData(**parsed_data_dict)
+
+    pdf_path = generate_pdf(parsed_data)
+    return FileResponse(pdf_path, media_type='application/pdf', filename="resume.pdf")
 
 
 # from fastapi import APIRouter, UploadFile, File, Depends, HTTPException
