@@ -1,3 +1,4 @@
+#app/services/resume_parser.py
 import os
 import httpx
 import json
@@ -28,7 +29,8 @@ async def parse_resume_with_openai(resume_text: str) -> dict:
         system_prompt = (
             "You are an intelligent resume parser. Extract structured data from resume text. "
             "Return only a JSON object with the following keys: name, email, phone, skills (list),Education, experience (list of jobs), "
-            "projects, Certifications,Acheivements. "
+            "projects, Certifications,Acheivements,Hobbies."
+            "If there is no such keywords return message as not available."
             "Do not include any explanation or commentary."
         )
 
